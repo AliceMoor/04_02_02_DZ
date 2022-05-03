@@ -170,8 +170,8 @@ int main()
 		cout << endl;
 	}
 
-	system("pause");
-	system("cls");
+	//system("pause");
+	//system("cls");
 
 
 
